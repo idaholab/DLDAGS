@@ -1,0 +1,7 @@
+apache-airflow
+# Ensure compatibility - https://github.com/apache/airflow/issues/36883
+Flask-Session==0.5.0
+requests
+pandas
+numpy
+docker
